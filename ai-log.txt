@@ -1,0 +1,53 @@
+{
+  "log": [
+    {
+      "ticket_id": "FUBAR-28399",
+      "description": "PoC - remaining items",
+      "client_version": "2.0.2",
+      "llm_version": "claude-sonnet-4",
+      "last_updated": "2025-07-28T10:18:53.767Z"
+    },
+    {
+      "ticket_id": "FUBAR-28399",
+      "description": "PoC - remaining items",
+      "client_version": "2.0.2",
+      "llm_version": "claude-sonnet-4",
+      "last_updated": "2025-07-28T12:03:01.962Z"
+    },
+    {
+      "ticket_id": "FUBAR-28399",
+      "description": "PoC - remaining items",
+      "client_version": "2.0.2",
+      "llm_version": "claude-sonnet-4",
+      "last_updated": "2025-07-28T15:43:24.825Z"
+    },
+    {
+      "ticket_id": "FUBAR-28399",
+      "description": "PoC - remaining items",
+      "client_version": "2.0.2",
+      "llm_version": "claude-sonnet-4",
+      "last_updated": "2025-07-29T11:26:32.363Z"
+    },
+    {
+      "ticket_id": "FUBAR-28399",
+      "description": "PoC - remaining items",
+      "client_version": "2.0.2",
+      "llm_version": "claude-sonnet-4",
+      "last_updated": "2025-07-29T13:47:05.135Z"
+    },
+    {
+      "ticket_id": "FUBAR-22819",
+      "description": "Something",
+      "client_version": "2.0.2",
+      "llm_version": "claude-sonnet-4",
+      "last_updated": "2025-08-06T19:01:27.083Z"
+    },
+    {
+      "ticket_id": "FUBAR-28623",
+      "description": "Something",
+      "client_version": "2.0.2",
+      "llm_version": "claude-sonnet-4",
+      "last_updated": "2025-08-07T14:58:59.145Z"
+    }
+  ]
+}
